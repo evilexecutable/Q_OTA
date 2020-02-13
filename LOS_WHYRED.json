@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1590064843,
-      "filename": "lineage-17.1-20200126-UNOFFICIAL-whyred.zip",
-      "id": "c934103a811fc0e72588d77ec889d92fa40116dd",
+      "datetime": 1581596397,
+      "filename": "lineage-17.1-20200213-UNOFFICIAL-whyred.zip",
+      "id": "2bz850jld0xq7t93oh73vgsxshyrnl7fwimgso43",
       "romtype": "UNOFFICIAL",
-      "size": 686555931,
-      "url": "",
+      "size": 690484157,
+      "url": "https://github.com/evilexecutable/Q_OTA/releases/download/13-02-2020_WHYRED/lineage-17.1-20200213-UNOFFICIAL-whyred.zip",
       "version": "17.1"
     }
   ]
